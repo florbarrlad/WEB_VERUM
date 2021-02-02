@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Cinzel', serif;
+  font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -14,4 +14,10 @@ button {
   background-color: transparent;
   border: none;
   cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px;
 }
