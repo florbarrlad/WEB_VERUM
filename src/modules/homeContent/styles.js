@@ -1,4 +1,4 @@
-import {palette, breakpoints} from '../../utils/theme';
+import {palette} from '../../utils/theme';
 
 const styles = {
   homeCollectionButton: {
