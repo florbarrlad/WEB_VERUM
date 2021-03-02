@@ -19,13 +19,13 @@ const Home = () => {
           src='https://res.cloudinary.com/dmfuljirv/image/upload/v1612305306/4_c7hg1c.jpg'
           alt='tierra'
         />
-        <div style={styles.homeText}>
+        {/* <div style={styles.homeText}>
           <p style={styles.homeCollectionName}>TIERRA</p>
           Coleccion de sastreria moderna
           <button style={styles.homeCollectionButton}>
             DESCUBRI LA COLECCION
           </button>
-        </div>
+        </div> */}
       </div>
       <div style={styles.homeImageContainer}>
         <img

@@ -1,4 +1,4 @@
-import {palette} from '../../utils/theme';
+import {palette, breakpoints} from '../../utils/theme';
 
 const styles = {
   homeCollectionButton: {
@@ -28,6 +28,7 @@ const styles = {
   homeImageContainer: {
     display: 'flex',
     justifyContent: 'center',
+    minWidth: '100%',
   },
   homeImageAndText: {
     display: 'flex',

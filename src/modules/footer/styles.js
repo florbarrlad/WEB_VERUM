@@ -16,7 +16,7 @@ const styles = {
     width: 300,
   },
   footerTitle: {
-    fontSize: 20,
+    fontSize: 18,
     fontWeight: 600,
     marginBottom: 10,
   },
